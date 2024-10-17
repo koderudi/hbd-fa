@@ -1,0 +1,1 @@
+console.log("jangan sedih")
